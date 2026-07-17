@@ -1,0 +1,807 @@
+{
+    "categories": [
+        {
+            "id": "comedy",
+            "title": "Comedy"
+        },
+        {
+            "id": "adventure",
+            "title": "Adventure"
+        },
+        {
+            "id": "action",
+            "title": "Action"
+        },
+        {
+            "id": "family",
+            "title": "Family"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "title": "The Three Bears",
+            "description": "The lovable bear family finds themselves caught in a series of funny adventures while trying to win the 'Star of the Month' award. Filled with comedy, heartwarming moments, and colorful animation for the whole family.",
+            "thumbnail": "3-beers",
+            "date": "2026-06-29",
+            "time": "23:08",
+            "rating": 7.9,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "three%20beers/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 2,
+            "title": "Uncle Grandpa",
+            "description": "Uncle Grandpa travels the world in his magical RV, helping children solve unusual problems in the funniest and most unpredictable ways. Every adventure is packed with surreal humor and unforgettable characters.",
+            "thumbnail": "uncle-grandpa",
+            "date": "2026-06-29",
+            "time": "23:09",
+            "rating": 4.6,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Grand_pa/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 3,
+            "title": "Tom and Jerry",
+            "description": "The legendary rivalry between Tom the cat and Jerry the clever mouse continues through endless chases, hilarious tricks, and timeless comedy that has entertained generations around the world.",
+            "thumbnail": "tom-and-jerry",
+            "date": "2026-06-29",
+            "time": "23:10",
+            "rating": 7.9,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 50,
+            "videoFolder": "Tom%20and%20Jerry/",
+            "videoExtension": "mkv"
+        },
+        {
+            "id": 4,
+            "title": "SpongeBob SquarePants",
+            "description": "Join SpongeBob and his friends in Bikini Bottom as everyday jobs become hilarious adventures full of laughter, unforgettable moments, and classic cartoon fun beneath the sea.",
+            "thumbnail": "spongebob",
+            "date": "2026-06-29",
+            "time": "23:11",
+            "rating": 8.2,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "SpongeBoob/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 5,
+            "title": "Ninja Turtles",
+            "description": "Four mutant turtle brothers train in the art of ninjutsu and fight dangerous enemies lurking beneath New York City while protecting innocent people with courage, teamwork, and plenty of humor.",
+            "thumbnail": "ninja-turtles",
+            "date": "2026-06-29",
+            "time": "23:12",
+            "rating": 7.9,
+            "categories": [
+                "action"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Turtels%20Ninja/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 6,
+            "title": "The Amazing World Of Gumball",
+            "description": "Life in Elmore is anything but ordinary as Gumball and Darwin constantly find themselves in absurd situations filled with comedy, imagination, and unforgettable adventures.",
+            "thumbnail": "the-amazing-world-of-gumball",
+            "date": "2026-06-29",
+            "time": "23:13",
+            "rating": 8.4,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Gmbol/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 7,
+            "title": "Clarence",
+            "description": "Clarence enjoys every day as a new adventure, discovering excitement in the smallest moments with his best friends while spreading positivity, imagination, and endless fun.",
+            "thumbnail": "clarence",
+            "date": "2026-06-29",
+            "time": "23:18",
+            "rating": 8.0,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Clarns/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 8,
+            "title": "Kung Fu Panda",
+            "description": "Po, an unlikely kung fu hero, must embrace his destiny and master the ancient art of kung fu while protecting the Valley of Peace alongside the legendary Furious Five.",
+            "thumbnail": "kung-fu-panda",
+            "date": "2026-06-30",
+            "time": "00:24",
+            "rating": 7.6,
+            "categories": [
+                "action"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Konfo%20Panda/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 9,
+            "title": "Mr Bean",
+            "description": "Mr. Bean turns ordinary daily situations into unforgettable comedy through his unique personality, clever ideas, and hilarious misunderstandings that rarely go as planned.",
+            "thumbnail": "mr-bean",
+            "date": "2026-06-30",
+            "time": "01:05",
+            "rating": 6.9,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "ms_peen/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 10,
+            "title": "Adventure Time",
+            "description": "Finn the Human and Jake the Dog journey across the magical Land of Ooo, facing strange creatures, powerful villains, and unforgettable adventures while protecting their friends.",
+            "thumbnail": "adventure-time",
+            "date": "2026-06-30",
+            "time": "01:12",
+            "rating": 8.6,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "adventure_time/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 11,
+            "title": "Ratatouille",
+            "description": "A gifted young rat named Remy dreams of becoming one of Paris' greatest chefs, proving that passion, talent, and determination can come from the most unexpected places.",
+            "thumbnail": "ratatouille",
+            "date": "2026-06-30",
+            "time": "02:11",
+            "rating": 8.1,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Rat/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 12,
+            "title": "Aladdin",
+            "description": "Aladdin, a street-smart young man, discovers a magical lamp and embarks on a thrilling adventure with the help of a wisecracking genie, ultimately learning about love, friendship, and courage.",
+            "thumbnail": "aladdin",
+            "date": "2026-07-14",
+            "time": "22:10",
+            "rating": 8.0,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "alaadin/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 13,
+            "title": "The Princess and the Frog",
+            "description": "Tiana, a hardworking young woman in New Orleans, dreams of opening her own restaurant",
+            "thumbnail": "amira-frog",
+            "date": "2026-07-14",
+            "time": "23:52",
+            "rating": 7.2,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "amira/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 14,
+            "title": "Elemental",
+            "description": "In a world where fire, water, land, and air residents live together, Ember, a fiery, and Wade, a go-with-the-flow water guy, discover that they have more in common than they thought. Their friendship challenges the boundaries of their elemental differences and teaches them about acceptance, understanding, and the power of unity.",
+            "thumbnail": "elemental",
+            "date": "2026-07-15",
+            "time": "01:32",
+            "rating": 7.0,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Anasir%20City/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 15,
+            "title": "Bambi",
+            "description": "Bambi, a young deer, navigates the challenges of growing up in the forest, learning about friendship, love, and the circle of life. This timeless classic captures the beauty of nature and the innocence of childhood.",
+            "thumbnail": "bambi",
+            "date": "2026-07-15",
+            "time": "01:40",
+            "rating": 7.3,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Bambi/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 16,
+            "title": "Bolt",
+            "description": "Bolt, a young and adventurous creature, embarks on a journey through a whimsical world filled with challenges, friendships, and self-discovery. Along the way, Blot learns valuable lessons about courage, kindness, and the importance of embracing one's unique qualities.",
+            "thumbnail": "bolt",
+            "date": "2026-07-15",
+            "time": "02:38",
+            "rating": 6.8,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Blot/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 17,
+            "title": "One Hundred and One Dalmatians",
+            "description": "In this heartwarming tale, a family of Dalmatians must outwit the evil Cruella de Vil, who is determined to steal their puppies for her nefarious plans. The story celebrates bravery, loyalty, and the unbreakable bond between pets and their owners.",
+            "thumbnail": "dogs",
+            "date": "2026-07-16",
+            "time": "22:58",
+            "rating": 7.3,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "dogs/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 18,
+            "title": "Finding Dory",
+            "description": "In this heartwarming sequel to 'Finding Nemo,' Dory, the forgetful blue tang fish, embarks on a journey to reunite with her long-lost family. Along the way, she encounters new friends and overcomes challenges, discovering the true meaning of family and friendship.",
+            "thumbnail": "find-dory",
+            "date": "2026-07-16",
+            "time": "23:10",
+            "rating": 7.2,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Find%20my%20role/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 19,
+            "title": "Inside Out",
+            "description": "In the mind of a young girl named Riley, five emotions—Joy, Sadness, Anger, Fear, and Disgust—navigate the challenges of growing up. This imaginative story explores the complexities of emotions and the importance of embracing all feelings to understand oneself better.",
+            "thumbnail": "inside-out",
+            "date": "2026-07-16",
+            "time": "23:35",
+            "rating": 7.1,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Heart/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 20,
+            "title": "Toy Story",
+            "description": "In a world where toys come to life when humans aren't around, Woody, Buzz Lightyear, and their friends embark on exciting adventures filled with friendship, loyalty, and the magic of childhood imagination. This beloved animated classic captures the heartwarming bond between toys and their owners.",
+            "thumbnail": "toy-story-1",
+            "date": "2026-07-17",
+            "time": "00:14",
+            "rating": 8.3,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "HEKEYT/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 21,
+            "title": "Toy Story 2",
+            "description": "In a world where toys come to life when humans aren't around, Woody, Buzz Lightyear, and their friends embark on exciting adventures filled with friendship, loyalty, and the magic of childhood imagination. This beloved animated classic captures the heartwarming bond between toys and their owners.",
+            "thumbnail": "toy-story-2",
+            "date": "2026-07-17",
+            "time": "00:20",
+            "rating": 8.3,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "HEKAYET2/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 22,
+            "title": "The Incredibles",
+            "description": "In a world where superheroes are forced to live ordinary lives, the Parr family must come together to save the world from a new threat. This action-packed adventure celebrates family, courage, and the power of working together to overcome challenges.",
+            "thumbnail": "the-incredibles",
+            "date": "2026-07-17",
+            "time": "00:30",
+            "rating": 8.3,
+            "categories": [
+                "action"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "hero/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 23,
+            "title": "Hotel Transylvania",
+            "description": "In a world where monsters and humans coexist, Count Dracula runs a lavish hotel for monsters to relax and escape from the human world",
+            "thumbnail": "hotel-transylvania",
+            "date": "2026-07-17",
+            "time": "00:35",
+            "rating": 7.1,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Hotel%20Transylvania/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 24,
+            "title": "The Little Mermaid",
+            "description": "In a magical underwater kingdom, Ariel, a young mermaid princess, dreams of exploring the human world. With the help of her friends and a little bit of magic, she embarks on an unforgettable adventure filled with love, courage, and the pursuit of her dreams.",
+            "thumbnail": "the-little-mermaid",
+            "date": "2026-07-17",
+            "time": "00:40",
+            "rating": 7.2,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Houriya/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 25,
+            "title": "How To Train Your Dragon",
+            "description": "In a mythical Viking world, a young Viking named Hiccup befriends a dragon named Toothless, challenging the long-standing rivalry between humans and dragons. Together, they embark on an epic adventure that teaches courage, friendship, and the power of understanding.",
+            "thumbnail": "how-to-train-your-dragon",
+            "date": "2026-07-17",
+            "time": "00:50",
+            "rating": 7.2,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "how/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 26,
+            "title": "How To Train Your Dragon 2",
+            "description": "In a mythical Viking world, a young Viking named Hiccup befriends a dragon named Toothless, challenging the long-standing rivalry between humans and dragons. Together, they embark on an epic adventure that teaches courage, friendship, and the power of understanding.",
+            "thumbnail": "how-to-train-your-dragon-2",
+            "date": "2026-07-17",
+            "time": "01:02",
+            "rating": 8.1,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "k/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 27,
+            "title": "The Emperor's New Groove",
+            "description": "In a whimsical world, the self-centered Emperor Kuzco is transformed into a llama by his power-hungry advisor. With the help of a kind-hearted peasant named Pacha, Kuzco embarks on a hilarious journey to regain his throne, learning valuable lessons about humility, friendship, and the true meaning of leadership.",
+            "thumbnail": "the-emperors-new-groove",
+            "date": "2026-07-17",
+            "time": "01:52",
+            "rating": 8.1,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "KRONK/",
+            "videoExtension": "mkv"
+        },
+        {
+            "id": 28,
+            "title": "Leo",
+            "description": "In a world where animals can talk, Leo, a clever and adventurous lion, embarks on a journey to discover his true identity and purpose. Along the way, he encounters a variety of colorful characters, faces challenges that test his courage, and learns valuable lessons about friendship, loyalty, and the importance of embracing one's unique qualities.",
+            "thumbnail": "leo",
+            "date": "2026-07-17",
+            "time": "02:04",
+            "rating": 7.0,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "leo/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 29,
+            "title": "The Secret Life of Pets",
+            "description": "In a bustling city, the lives of pets are revealed when their owners are away. Max, a lovable terrier, and his friends embark on hilarious adventures, discovering the secret world of pets and the bonds they share with their human companions.",
+            "thumbnail": "the-secret-life-of-pets",
+            "date": "2026-07-17",
+            "time": "02:06",
+            "rating": 7.0,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "life/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 30,
+            "title": "Lilo & Stitch",
+            "description": "In the Hawaiian islands, a young girl named Lilo adopts a mischievous alien named Stitch, who is on the run from intergalactic authorities. Together, they form an unlikely bond and learn about the importance of family, friendship, and acceptance in this heartwarming and humorous adventure.",
+            "thumbnail": "lilo-stitch",
+            "date": "2026-07-17",
+            "time": "02:09",
+            "rating": 6.7,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Lilo/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 31,
+            "title": "The Lion King II: Simba's Pride",
+            "description": "In the Pride Lands, Simba's daughter Kiara befriends Kovu, a young lion from a rival pride. As they navigate their differences and the challenges of their respective families, they discover the power of love, unity, and breaking free from the past in this heartwarming sequel to the classic tale.",
+            "thumbnail": "the-lion-king-ii-simbas-pride",
+            "date": "2026-07-17",
+            "time": "02:13",
+            "rating": 6.7,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "lion1/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 32,
+            "title": "Madagascar",
+            "description": "In this animated adventure, a group of zoo animals from New York City find themselves stranded on the island of Madagascar. As they navigate the wild and encounter new friends, they learn about freedom, friendship, and the importance of embracing their true selves.",
+            "thumbnail": "madagascar",
+            "date": "2026-07-17",
+            "time": "02:15",
+            "rating": 7.0,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Madagascar/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 33,
+            "title": "The Penguins of Madagascar",
+            "description": "In this animated adventure, the penguins from Madagascar embark on a series of hilarious and daring missions to protect their home and friends. With their unique personalities and clever strategies, they navigate challenges, outsmart villains, and prove that even the smallest creatures can make a big impact.",
+            "thumbnail": "the-penguins-of-madagascarb",
+            "date": "2026-07-17",
+            "time": "02:17",
+            "rating": 7.5,
+            "categories": [
+                "action"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Mdafger/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 34,
+            "title": "Moana",
+            "description": "In this animated adventure, Moana, a spirited Polynesian teenager, sets sail on a daring journey to save her island and discover her true destiny. With the help of the demigod Maui, she faces formidable challenges, learns about her heritage, and embraces her inner",
+            "thumbnail": "moana",
+            "date": "2026-07-17",
+            "time": "02:19",
+            "rating": 7.6,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Moana_a1/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 35,
+            "title": "Mulan",
+            "description": "In this animated adventure, Mulan, a courageous young woman, disguis, es herself as a man to take her father's place in the Chinese army. She embarks on a perilous journey to defend her country, facing formidable challenges and discovering her inner strength, bravery, and the true meaning of honor.",
+            "thumbnail": "mulan",
+            "date": "2026-07-17",
+            "time": "02:40",
+            "rating": 7.7,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "molin/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 36,
+            "title": "Monsters University",
+            "description": "In this animated prequel, Mike and Sulley, two aspiring monsters, meet at Monsters University and become unlikely friends. As they navigate the challenges of college life, they learn about teamwork, perseverance, and the importance of embracing their unique talents to achieve their dreams.",
+            "thumbnail": "monsters-university",
+            "date": "2026-07-17",
+            "time": "02:45",
+            "rating": 7.7,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Monsters%20University/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 37,
+            "title": "Monsters, Inc",
+            "description": "In this animated prequel, Mike and Sulley, two aspiring monsters, meet at Monsters University and become unlikely friends. As they navigate the challenges of college life, they learn about teamwork, perseverance, and the importance of embracing their unique talents to achieve their dreams.",
+            "thumbnail": "monsters-inc",
+            "date": "2026-07-17",
+            "time": "02:48",
+            "rating": 7.7,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Monsters,%20Inc./",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 38,
+            "title": "Finding Nemo",
+            "description": "In this animated adventure, Marlin, a clownfish, embarks on a journey across the ocean to rescue his son Nemo, who has been captured by a diver. Along the way, Marlin encounters a variety of colorful sea creatures and learns valuable lessons about courage, friendship, and the importance of letting go. ",
+            "thumbnail": "nemo",
+            "date": "2026-07-17",
+            "time": "02:50",
+            "rating": 8.2,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "nemo/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 39,
+            "title": "Turning Red",
+            "description": "In this animated adventure, Mei, a young girl, discovers that she transforms into a giant red panda whenever she gets too excited. As she navigates the challenges of adolescence, family expectations, and self-discovery, Mei learns to embrace her unique identity and the importance of balancing her emotions",
+            "thumbnail": "turning-red",
+            "date": "2026-07-17",
+            "time": "02:51",
+            "rating": 8.2,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "panda/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 40,
+            "title": "Pinocchio",
+            "description": "In this animated adventure, Pinocchio, a wooden puppet, dreams, of becoming a real boy. With the guidance of his conscience, Jiminy Cricket, and the support of his creator, Geppetto, Pinocchio embarks on a journey filled with challenges, temptations, and valuable life lessons about honesty, bravery, and the importance of making the right choices.",
+            "thumbnail": "pinocchio",
+            "date": "2026-07-17",
+            "time": "02:52",
+            "rating": 7.4,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Pinocchio/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 41,
+            "title": "The Sea Beast",
+            "description": "In this animated adventure, a legendary sea monster hunter and a young girl embark on a thrilling journey across the high seas to confront a fearsome sea beast. Along the way, they discover the true meaning of courage, friendship, and the importance of protecting the ocean and its creatures.",
+            "thumbnail": "the-sea-beast",
+            "date": "2026-07-17",
+            "time": "02:53",
+            "rating": 7.4,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Sea%20Monster/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 42,
+            "title": "Shrek",
+            "description": "In this animated adventure, Shrek, a grumpy ogre, embarks on a quest to rescue Princess Fiona from a dragon-guarded castle. Along the way, he forms an unlikely friendship with Donkey and discovers that true beauty lies within. This heartwarming tale celebrates love, acceptance, and the power of embracing one's uniqueness.",
+            "thumbnail": "shrek",
+            "date": "2026-07-17",
+            "time": "02:54",
+            "rating": 7.9,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "shereek/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 43,
+            "title": "Spirit: Stallion of the Cimarron",
+            "description": "In this animated adventure, a young horse named Spirit embarks on a journey of self-discovery and freedom. As he navigates the vast American frontier, he learns the true meaning of independence and the importance of staying true to oneself.",
+            "thumbnail": "spirit-stallion-of-the-cimarron",
+            "date": "2026-07-17",
+            "time": "02:55",
+            "rating": 7.2,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "sprit/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 44,
+            "title": "Tarzan",
+            "description": "Raised by gorillas in the heart of the jungle, Tarzan lives a peaceful life until he meets Jane and discovers the world beyond the trees. An unforgettable adventure about courage, family, and finding where you truly belong.",
+            "thumbnail": "tarzan-jane",
+            "date": "2026-07-17",
+            "time": "02:56",
+            "rating": 7.2,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "tarazn/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 45,
+            "title": "The Croods",
+            "description": "Raised by gorillas in the heart of the jungle, Tarzan lives a peaceful life until he meets Jane and discovers the world beyond the trees. An unforgettable adventure about courage, family, and finding where you truly belong.",
+            "thumbnail": "the-croods",
+            "date": "2026-07-17",
+            "time": "02:57",
+            "rating": 7.1,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "The%20Croods/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 46,
+            "title": "Frozen",
+            "description": "When Queen Elsa's magical powers accidentally trap the kingdom of Arendelle in an endless winter, her fearless sister Anna sets out on an epic journey to bring her home. Alongside the lovable snowman Olaf, rugged ice harvester Kristoff, and his loyal reindeer Sven, Anna discovers that true love, courage, and family are the greatest magic of all.",
+            "thumbnail": "frozen",
+            "date": "2026-07-17",
+            "time": "02:58",
+            "rating": 7.4,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "The%20Snow%20Queen/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 47,
+            "title": "UP",
+            "description": "Carl Fredricksen, a widowed balloon salesman, fulfills his lifelong dream by tying thousands of balloons to his house and flying to South America. Along the way, he unexpectedly gains a young companion named Russell, leading to a heartwarming adventure filled with friendship, courage, and discovering that life's greatest journeys are shared with others.",
+            "thumbnail": "up",
+            "date": "2026-07-17",
+            "time": "02:59",
+            "rating": 8.3,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "up/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 48,
+            "title": "Zootopia",
+            "description": "In the bustling city of Zootopia, where animals of every kind live together, rookie police officer Judy Hopps teams up with the clever fox Nick Wilde to solve a mysterious case. Their thrilling adventure uncovers hidden secrets while teaching the importance of trust, friendship, and believing in yourself.",
+            "thumbnail": "zootopia",
+            "date": "2026-07-17",
+            "time": "03:00",
+            "rating": 8.3,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "zotp/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 49,
+            "title": "A Bug's Life",
+            "description": "Flik, an inventive ant with big dreams, sets out on a daring adventure to save his colony from a gang of greedy grasshoppers. Along the way, he befriends a group of hilarious circus bugs who prove that even the smallest heroes can make the biggest difference. A fun-filled animated adventure packed with comedy, courage, and teamwork.",
+            "thumbnail": "bug",
+            "date": "2026-07-17",
+            "time": "03:01",
+            "rating": 7.2,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Bug/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 50,
+            "title": "Cars",
+            "description": "Lightning McQueen, a talented young race car, finds himself stranded in the quiet town of Radiator Springs on his way to the biggest race of his life. As he makes unexpected friends and learns valuable life lessons, McQueen discovers that kindness, friendship, and humility matter more than crossing the finish line first.",
+            "thumbnail": "cars",
+            "date": "2026-07-17",
+            "time": "03:02",
+            "rating": 7.3,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Cars/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 51,
+            "title": "Chicken Run",
+            "description": "Determined to escape life on a dangerous farm, the clever hen Ginger teams up with the confident rooster Rocky to hatch the greatest escape plan ever. Packed with hilarious moments, exciting adventures, and unforgettable characters, Chicken Run is a fun-filled animated comedy about teamwork, courage, and never giving up on freedom.",
+            "thumbnail": "chicken-run",
+            "date": "2026-07-17",
+            "time": "03:03",
+            "rating": 7.1,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "checken_run/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 52,
+            "title": "Cinderella",
+            "description": "Despite being treated unfairly by her cruel stepmother and stepsisters, Cinderella never loses hope or kindness. With a little help from her Fairy Godmother, she gets the chance to attend the royal ball, where a magical evening changes her life forever. A timeless fairy tale about courage, dreams, and the power of believing in happily ever after.",
+            "thumbnail": "cinderella",
+            "date": "2026-07-17",
+            "time": "03:04",
+            "rating": 6.9,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Cinderella/",
+            "videoExtension": "mp4"
+        }
+    ],
+    "featured": [
+        11,
+        10,
+        13
+    ]
+}
