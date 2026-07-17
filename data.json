@@ -804,13 +804,43 @@
             "description": "In the world of video games, Wreck-It Ralph, a villain in his own game, longs to be a hero. When he embarks on a journey to prove himself, he discovers the true meaning of friendship and self-acceptance. Along the way, Ralph teams up with Vanellope von Schweetz, a feisty racer from another game, and together they face challenges that test their courage and determination.",
             "thumbnail": "wreck-it-ralph",
             "date": "2026-07-17",
-            "time": "07:30",
+            "time": "19:30",
             "rating": 7.7,
             "categories": [
                 "family"
             ],
             "episodesCount": 1,
             "videoFolder": "Wreck-It%20Ralph/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 54,
+            "title": "Dora The Explorer",
+            "description": "Dora, a young and adventurous explorer, embarks on exciting journeys with her talking backpack and trusty map. Along the way, she solves puzzles, overcomes obstacles, and learns valuable lessons about friendship, problem-solving, and the joy of discovery.",
+            "thumbnail": "dora",
+            "date": "2026-07-17",
+            "time": "22:10",
+            "rating": 4.5,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Dora/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 55,
+            "title": "Shaun The Sheep",
+            "description": "In this animated adventure, Shaun, a clever and mischievous sheep, leads his flock on hilarious escapades around the farm. With his quick thinking and resourcefulness, Shaun outsmarts the farmer and his dog, Bitzer, while embarking on fun-filled adventures that showcase friendship, teamwork, and the joy of living life to the fullest.",
+            "thumbnail": "shaun-the-sheep",
+            "date": "2026-07-17",
+            "time": "22:15",
+            "rating": 8.1,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Sheep/",
             "videoExtension": "mp4"
         }
     ],
