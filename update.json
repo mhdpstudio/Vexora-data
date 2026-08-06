@@ -10,12 +10,12 @@
   },
 
   "android-arm64": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://example.com/Vexora-arm64.apk"
   },
 
   "android-arm32": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "url": "https://example.com/Vexora-arm.apk"
   }
 }
