@@ -1,17 +1,20 @@
 {
   "win-x64": {
     "version": "1.0.0",
-    "url": "https://example.com/Vexora-x64.exe"
+    "url": "https://example.com/Vexora-x64.exe",
+    "size": "88.4 MB"
   },
 
   "win-x86": {
     "version": "1.0.0",
-    "url": "https://example.com/Vexora-x86.exe"
+    "url": "https://example.com/Vexora-x86.exe",
+    "size": "86.2 MB"
   },
 
   "android-arm64": {
     "version": "1.0.0",
-    "url": "https://example.com/Vexora-arm64.apk"
+    "url": "https://example.com/Vexora-arm64.apk",
+    "size": "55.4 MB"
   },
 
   "android-arm32": {
