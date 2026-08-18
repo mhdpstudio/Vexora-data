@@ -887,6 +887,21 @@
             "episodesCount": 1,
             "videoFolder": "car%202%20sayarat/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 59,
+            "title": "Monster House",
+            "description": "In this animated adventure, three kids discover that a creepy old house in their neighborhood is actually a living, breathing monster. As they try to uncover the mystery behind the house's strange behavior, they embark on a thrilling and hilarious journey filled with suspense, friendship, and courage.",
+            "thumbnail": "monster-house",
+            "date": "2026-08-18",
+            "time": "20:59",
+            "rating": 6.7,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Al%20manzel%20Al%20motawahesh/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
