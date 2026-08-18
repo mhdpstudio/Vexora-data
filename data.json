@@ -872,6 +872,21 @@
             "episodesCount": 1,
             "videoFolder": "mazr3a%20fe%20khatar/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 58,
+            "title": "Cars 2",
+            "description": "In this animated adventure, Lightning McQueen and his best friend Mater embark on a thrilling international journey filled with espionage, high-speed races, and unexpected challenges. As they navigate the",
+            "thumbnail": "cars-2",
+            "date": "2026-08-18",
+            "time": "20:05",
+            "rating": 5.7,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "car%202%20sayarat/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
