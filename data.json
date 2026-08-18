@@ -842,6 +842,36 @@
             "episodesCount": 1,
             "videoFolder": "Sheep/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 56,
+            "title": "Angry Birds",
+            "description": "In this animated adventure, the Angry Birds embark on a mission to save their eggs from the mischievous green pigs. With their unique abilities and teamwork, they face challenges, overcome obstacles, and learn valuable lessons about friendship, courage, and the importance of standing up for what is right.",
+            "thumbnail": "angry-birds",
+            "date": "2026-08-18",
+            "time": "16:03",
+            "rating": 6.4,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Angery%20Birds/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 57,
+            "title": "Barnyard",
+            "description": "In this animated adventure, Otis, a carefree cow, and his barnyard friends embark on hilarious escapades while keeping their secret lives hidden from the humans. With their unique personalities and clever antics, they navigate challenges, form unlikely friendships, and discover the true meaning of teamwork and loyalty.",
+            "thumbnail": "barnyard",
+            "date": "2026-08-18",
+            "time": "16:08",
+            "rating": 5.7,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "mazr3a%20fe%20khatar/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
