@@ -902,6 +902,21 @@
             "episodesCount": 1,
             "videoFolder": "Al%20manzel%20Al%20motawahesh/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 60,
+            "title": "The Bad Guys",
+            "description": "In this animated adventure, a group of notorious criminals known as the Bad Guys attempt to reform their ways and become heroes. As they navigate the challenges of their new roles, they face hilarious mishaps, unexpected friendships, and valuable lessons about redemption, teamwork, and the true meaning of being good.",
+            "thumbnail": "the-bad-guys",
+            "date": "2026-08-18",
+            "time": "22:36",
+            "rating": 6.9,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "Al%20Ashrar/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
