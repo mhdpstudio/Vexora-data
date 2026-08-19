@@ -977,6 +977,36 @@
             "episodesCount": 1,
             "videoFolder": "qotatt/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 65,
+            "title": "Tinker Bell 2",
+            "description": "In this animated adventure, Tinker Bell and her fairy friends embark on a magical journey to save Pixie Hollow from a mysterious threat. Along the way, they discover the power of friendship, courage, and believing in oneself. With enchanting landscapes, whimsical characters, and heartwarming moments, Tinker Bell 2 is a delightful tale for audiences of all ages.",
+            "thumbnail": "tinker-bell-2",
+            "date": "2026-08-19",
+            "time": "19:20",
+            "rating": 6.6,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "tanna%20w%20ranna%20two/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 66,
+            "title": "Despicable Me",
+            "description": "In this animated adventure, Gru, a supervillain with a heart of gold, hatches a plan to steal the moon. However, his life takes an unexpected turn when he adopts three orphaned girls and discovers the true",
+            "thumbnail": "despicable-me",
+            "date": "2026-08-19",
+            "time": "19:25",
+            "rating": 6.6,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "ana%20al%20hakeer/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
