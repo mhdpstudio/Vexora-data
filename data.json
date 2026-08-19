@@ -906,7 +906,7 @@
         {
             "id": 60,
             "title": "The Bad Guys",
-            "description": "In this animated adventure, a group of notorious criminals known as the Bad Guys attempt to reform their ways and become heroes. As they navigate the challenges of their new roles, they face hilarious mishaps, unexpected friendships, and valuable lessons about redemption, teamwork, and the true meaning of being good.",
+            "description": "In this animated adventure, a group of notorious criminals known as the Bad Guys attempt to reform their ways and become heroes. As they navigate the challenges of their new roles, they face hilarious mishaps.",
             "thumbnail": "the-bad-guys",
             "date": "2026-08-18",
             "time": "22:36",
@@ -931,6 +931,51 @@
             ],
             "episodesCount": 1,
             "videoFolder": "tanna%20w%20ranna/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 62,
+            "title": "Minions",
+            "description": "In this animated adventure, the mischievous Minions embark on a hilarious journey to find a new master to serve. Along the way, they encounter various challenges, form unexpected friendships, and discover the true meaning of loyalty and teamwork. Packed with laughter, heartwarming moments, and unforgettable antics, Minions is a delightful tale for audiences of all ages.",
+            "thumbnail": "minions",
+            "date": "2026-08-19",
+            "time": "10:31",
+            "rating": 6.4,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "al%20tawabe3/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 63,
+            "title": "Pocahontas",
+            "description": "In this animated adventure, Pocahontas, a Native American woman with a deep connection to nature, embarks on a journey of self-discovery and cultural understanding. As she navigates the challenges of her world and encounters new people, Pocahontas learns valuable lessons about love, courage, and the importance of embracing diversity and harmony with the natural world.",
+            "thumbnail": "pocahontas",
+            "date": "2026-08-19",
+            "time": "10:33",
+            "rating": 6.7,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "bokahants/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 64,
+            "title": "Puss in Boots",
+            "description": "In this animated adventure, Puss in Boots, a charming and swashbuckling feline, embarks on a daring quest to save his town from an evil villain. Along the way, he encounters new friends, faces thrilling challenges, and discovers the true meaning of bravery, loyalty, and friendship.",
+            "thumbnail": "puss-in-boots",
+            "date": "2026-08-19",
+            "time": "10:35",
+            "rating": 6.7,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "qotatt/",
             "videoExtension": "mp4"
         }
     ],
