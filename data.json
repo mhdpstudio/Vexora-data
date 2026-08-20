@@ -1007,6 +1007,51 @@
             "episodesCount": 1,
             "videoFolder": "ana%20al%20hakeer/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 67,
+            "title": "Brave",
+            "description": "In this animated adventure, Merida, a skilled archer and headstrong princess, defies tradition and sets out on a journey to change her fate. Along the way, she discovers the importance of family, courage, and embracing one's true self. With breathtaking landscapes, thrilling adventures, and heartwarming moments, Brave is a tale of empowerment and self-discovery.",
+            "thumbnail": "brave",
+            "date": "2026-08-20",
+            "time": "16:30",
+            "rating": 7.1,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "mareeda/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 68,
+            "title": "Big Hero 6",
+            "description": "In this animated adventure, Hiro Hamada, a young robotics prodigy, forms an unlikely team of heroes to combat a mysterious villain threatening the city of San Fransokyo. With the help of his inflatable robot companion Baymax and his friends, Hiro learns about friendship, courage, and the power of using technology for good. Packed with action, heartwarming moments, and thrilling adventures, Big Hero 6 is a story of heroism and self-discovery.",
+            "thumbnail": "big-hero-6",
+            "date": "2026-08-20",
+            "time": "16:32",
+            "rating": 7.8,
+            "categories": [
+                "action"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "al%20abtal%20al%20setta/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 69,
+            "title": "Wall-E",
+            "description": "In this animated adventure, Wall-E, a small waste-collecting robot, embarks on a journey through space to find love and save humanity. As he discovers the beauty of Earth and the importance of caring for the environment, Wall-E learns about friendship, courage, and the power of hope. With stunning visuals, heartwarming moments, and a compelling story, Wall-E is a tale of love, perseverance, and the impact of one small robot on the world.",
+            "thumbnail": "walle",
+            "date": "2026-08-20",
+            "time": "16:35",
+            "rating": 8.4,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "al%20robot%20wool/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
