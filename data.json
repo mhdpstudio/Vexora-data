@@ -1052,6 +1052,66 @@
             "episodesCount": 1,
             "videoFolder": "al%20robot%20wool/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 70,
+            "title": "The Adventures of Ichabod and Mr. Toad",
+            "description": "In this animated adventure, Ichabod Crane, a timid schoolteacher, and Mr. Toad, a reckless and adventurous toad, embark on separate journeys filled with excitement and danger. Ichabod encounters the legendary Headless Horseman, while Mr. Toad pursues his love for fast cars and thrilling escapades. With humor, suspense, and unforgettable characters, The Adventures of Ichabod and Mr. Toad is a delightful tale of courage, friendship, and the pursuit of one's passions.",
+            "thumbnail": "the-adventures-of-ichabod-and-mr-toad",
+            "date": "2026-08-25",
+            "time": "00:49",
+            "rating": 6.8,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "adventure/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 71,
+            "title": "Mickey's Christmas Carol",
+            "description": "In this animated adaptation of Charles Dickens' classic tale, Scrooge McDuck is visited by three spirits on Christmas Eve, leading him to reflect on his past, present, and future. With the help of Mickey Mouse and his friends, Scrooge learns the true meaning of Christmas, generosity, and the importance of kindness. A heartwarming story filled with holiday cheer and timeless lessons.",
+            "thumbnail": "mickeys-christmas-carol",
+            "date": "2026-08-25",
+            "time": "00:52",
+            "rating": 8.0,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "mickey/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 72,
+            "title": "The Nightmare Before Christmas",
+            "description": "In this animated musical fantasy, Jack Skellington, the Pumpkin King of Halloween Town, becomes bored with his annual routine and stumbles upon Christmas Town. Fascinated by the holiday spirit, he attempts to bring Christmas to his own world, leading to unexpected chaos and a journey of self-discovery. With its unique blend of dark humor, enchanting music, and imaginative visuals, The Nightmare Before Christmas is a timeless tale of identity, creativity, and the magic of the holiday season.",
+            "thumbnail": "the-nightmare-before-christmas",
+            "date": "2026-08-25",
+            "time": "00:56",
+            "rating": 7.9,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "nightmare/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 73,
+            "title": "Rio",
+            "description": "In this animated adventure, Blu, a domesticated macaw from Minnesota, embarks on a thrilling journey to Rio de Janeiro to find his roots and discover the true meaning of freedom. Along the way, he meets new friends, faces exciting challenges, and learns about love, courage, and the importance of embracing one's true self. With vibrant animation, catchy music, and heartwarming moments, Rio is a delightful tale for audiences of all ages.",
+            "thumbnail": "rio",
+            "date": "2026-08-25",
+            "time": "01:00",
+            "rating": 6.9,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "rio/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
