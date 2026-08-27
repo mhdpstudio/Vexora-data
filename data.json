@@ -1112,6 +1112,36 @@
             "episodesCount": 1,
             "videoFolder": "rio/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 74,
+            "title": "A Christmas Carol",
+            "description": "In this animated adaptation of Charles Dickens' classic tale, Ebenezer Scrooge, a miserly old man, is visited, by the ghosts of Christmas Past, Present, and Future. Through their guidance, Scrooge learns the true meaning of Christmas, generosity, and the importance of kindness. With its timeless message, heartwarming story, and enchanting animation, A Christmas Carol is a holiday classic that continues to captivate audiences of all ages.",
+            "thumbnail": "a-christmas-carol",
+            "date": "2026-08-27",
+            "time": "19:42",
+            "rating": 6.8,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "carol%202009/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 75,
+            "title": "Home on the Range",
+            "description": "In this animated adventure, a group of misfit cows embarks on a daring mission to save their farm from foreclosure. With the help of a determined bounty hunter and a clever horse, they face challenges, outsmart villains, and discover the true meaning of friendship, courage, and standing up for what is right. Packed with humor, heartwarming moments, and unforgettable characters, Home on the Range is a delightful tale for audiences of all ages.",
+            "thumbnail": "home-on-the-range",
+            "date": "2026-08-27",
+            "time": "19:42",
+            "rating": 6.8,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "home%20on/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
