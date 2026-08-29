@@ -1142,6 +1142,96 @@
             "episodesCount": 1,
             "videoFolder": "home%20on/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 76,
+            "title": "Spies In Disguise",
+            "description": "In this animated adventure, a super spy and a brilliant scientist team up to save the world from a dangerous villain. When the spy is transformed into a pigeon, he must rely on his wits, courage, and the help of his unlikely feathered friend to complete the mission. Packed with action, humor, and heartwarming moments, Spies In Disguise is a thrilling tale of friendship, teamwork, and embracing one's true potential.",
+            "thumbnail": "spies-in-disguise",
+            "date": "2026-08-29",
+            "time": "16:36",
+            "rating": 6.8,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "spies/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 77,
+            "title": "Pinecone & Pony",
+            "description": "In this animated adventure, a young pinecone embarks on a journey to find its place in the world. Along the way, it encounters various challenges, makes new friends, and learns valuable lessons about courage, perseverance, and the importance of embracing one's unique qualities. With stunning animation, heartwarming moments, and a captivating story, Pinecone is a delightful tale for audiences of all ages.",
+            "thumbnail": "pinecone-and-pony",
+            "date": "2026-08-29",
+            "time": "16:48",
+            "rating": 6.5,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "pinecone/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 78,
+            "title": "Goat",
+            "description": "In this animated adventure, a young goat embarks on a journey to discover its true potential and the meaning of friendship. Along the way, it faces challenges, learns valuable life lessons, and discovers the importance of embracing one's unique qualities. With heartwarming moments, humor, and a captivating story, Goat is a delightful tale for audiences of all ages.",
+            "thumbnail": "goat",
+            "date": "2026-08-29",
+            "time": "16:49",
+            "rating": 6.6,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "goat/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 79,
+            "title": "Valhalla (1986)",
+            "description": "Brother and sister Tjalfe and Røskva are paid a surprise visit by gods Thor and Loke. After the children disobey his orders, Thor takes them along with him to Asgaard, the land of the gods.",
+            "thumbnail": "valhalla",
+            "date": "2026-08-29",
+            "time": "16:53",
+            "rating": 6.8,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "valhall/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 80,
+            "title": "The Pout-Pout Fish",
+            "description": "In this animated adventure, Mr. Fish, a gloomy and pessimistic fish, embarks on a journey to discover the power of positivity and the importance of spreading happiness. Along the way, he encounters various sea creatures, learns valuable life lessons, and discovers that a positive attitude can make a big difference in the world. With heartwarming moments, humor, and a captivating story, The Pout-Pout Fish is a delightful tale for audiences of all ages.",
+            "thumbnail": "the-pout-pout-fish",
+            "date": "2026-08-29",
+            "time": "16:55",
+            "rating": 5.0,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "poat/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 81,
+            "title": "Hoppers",
+            "description": "In this animated adventure, a group of adventurous grasshoppers embarks on a thrilling journey to explore the world beyond their meadow. Along the way, they encounter various challenges, make new friends, and learn valuable lessons about courage, teamwork, and the importance of embracing one's unique abilities. With heartwarming moments, humor, and a captivating story, Hoppers is a delightful tale for audiences of all ages.",
+            "thumbnail": "hoppers",
+            "date": "2026-08-29",
+            "time": "16:57",
+            "rating": 5.0,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "hoppers/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
