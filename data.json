@@ -1232,6 +1232,141 @@
             "episodesCount": 1,
             "videoFolder": "hoppers/",
             "videoExtension": "mp4"
+        },
+        {
+            "id": 82,
+            "title": "The Great Mouse Detective",
+            "description": "In this animated adventure, Basil of Baker Street, a brilliant mouse detective, teams up with his loyal friend Dr. Dawson to solve a mysterious case involving the evil Professor Ratigan. As they navigate the streets of Victorian London, they encounter thrilling challenges, clever puzzles, and unexpected twists. With suspenseful moments, humor, and a captivating story, The Great Mouse Detective is a delightful tale for audiences of all ages.",
+            "thumbnail": "the-great-mouse-detective",
+            "date": "2026-08-30",
+            "time": "21:22",
+            "rating": 7.1,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "the%20great/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 83,
+            "title": "Charlie the Wonderdog",
+            "description": "In this animated adventure, Charlie, a lovable and courageous dog, embarks on a heartwarming journey to save his family from an unexpected danger. Along the way, he encounters new friends, overcomes challenges, and discovers the true meaning of loyalty, bravery, and the unbreakable bond between humans and their furry companions. With heartwarming moments, humor, and a captivating story, Charlie the Wonderdog is a delightful tale for audiences of all ages.",
+            "thumbnail": "charlie-the-Wonderdog",
+            "date": "2026-08-30",
+            "time": "21:27",
+            "rating": 5.2,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "charlie/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 83,
+            "title": "A Garfield Christmas Special",
+            "description": "In this animated holiday special, Garfield, the lovable and lazy cat, finds himself reluctantly participating in a Christmas celebration with his family. As he navigates the chaos of holiday preparations, Garfield learns valuable lessons about the true meaning of Christmas, the importance of family, and the joy of giving. With humor, heartwarming moments, and festive cheer, A Garfield Christmas Special is a delightful tale for audiences of all ages.",
+            "thumbnail": "garfield-christmas-special",
+            "date": "2026-08-30",
+            "time": "21:33",
+            "rating": 8.0,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "garfield/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 84,
+            "title": "A Garfield Christmas Special",
+            "description": "In this animated holiday special, Garfield, the lovable and lazy cat, finds himself reluctantly participating in a Christmas celebration with his family. As he navigates the chaos of holiday preparations, Garfield learns valuable lessons about the true meaning of Christmas, the importance of family, and the joy of giving. With humor, heartwarming moments, and festive cheer, A Garfield Christmas Special is a delightful tale for audiences of all ages.",
+            "thumbnail": "garfield-christmas-special",
+            "date": "2026-08-30",
+            "time": "21:33",
+            "rating": 8.0,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "garfield/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 85,
+            "title": "A Garfield Christmas Special",
+            "description": "In this animated holiday special, Garfield, the lovable and lazy cat, finds himself reluctantly participating in a Christmas celebration with his family. As he navigates the chaos of holiday preparations, Garfield learns valuable lessons about the true meaning of Christmas, the importance of family, and the joy of giving. With humor, heartwarming moments, and festive cheer, A Garfield Christmas Special is a delightful tale for audiences of all ages.",
+            "thumbnail": "garfield-christmas-special",
+            "date": "2026-08-30",
+            "time": "21:33",
+            "rating": 8.0,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "garfield/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 86,
+            "title": "Swapped",
+            "description": "In this animated adventure, two best friends accidentally swap bodies and must navigate the challenges of living each other's lives. As they struggle to adapt to their new circumstances, they learn valuable lessons about empathy, understanding, and the importance of friendship. With humor, heartwarming moments, and a captivating story, Swapped is a delightful tale for audiences of all ages.",
+            "thumbnail": "swapped",
+            "date": "2026-08-30",
+            "time": "21:37",
+            "rating": 7.3,
+            "categories": [
+                "comedy"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "swapped/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 87,
+            "title": "The Black Cauldron",
+            "description": "In this animated adventure, Taran, a young assistant pig-keeper, embarks on a quest to prevent the evil Horned King from obtaining the powerful Black Cauldron. Along the way, he encounters magical creatures, faces dangerous challenges, and learns valuable lessons about courage, friendship, and the importance of believing in oneself. With thrilling action, enchanting visuals, and a captivating story, The Black Cauldron is a timeless tale of heroism and self-discovery.",
+            "thumbnail": "the-black-cauldron",
+            "date": "2026-08-30",
+            "time": "21:39",
+            "rating": 6.3,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "the%20black/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 88,
+            "title": "An American Tail",
+            "description": "In this animated adventure, Fievel Mousekewitz, a young mouse, embarks on a journey to America in search of his family after they are separated during their immigration from Russia. Along the",
+            "thumbnail": "an-american-tail",
+            "date": "2026-08-30",
+            "time": "21:43",
+            "rating": 6.9,
+            "categories": [
+                "family"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "an%20american/",
+            "videoExtension": "mp4"
+        },
+        {
+            "id": 89,
+            "title": "Cricket & Antoinette",
+            "description": "In this animated adventure, Cricket, a spirited and curious insect, teams up with Antoinette, a clever and resourceful ant, to embark on an exciting journey filled with challenges and discoveries. As they navigate their way through the world of insects, they learn valuable lessons about friendship, courage, and the importance of working together. With heartwarming moments, humor, and a captivating story, Cricket & Antoinette is a delightful tale for audiences of all ages.",
+            "thumbnail": "cricket-and-antoinette",
+            "date": "2026-08-30",
+            "time": "21:47",
+            "rating": 6.4,
+            "categories": [
+                "adventure"
+            ],
+            "episodesCount": 1,
+            "videoFolder": "cricket/",
+            "videoExtension": "mp4"
         }
     ],
     "featured": [
