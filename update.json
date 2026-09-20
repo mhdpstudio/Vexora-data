@@ -12,9 +12,9 @@
   },
 
   "android-arm64": {
-    "version": "1.0.0",
-    "url": "https://pub-93eea8af4b0244069403fa309a3177af.r2.dev/Vexora-V1.0.0.rar",
-    "size": "19.1 MB"
+    "version": "1.1.0",
+    "url": "https://pub-93eea8af4b0244069403fa309a3177af.r2.dev/Vexora-App.apk",
+    "size": "33.43 MB"
   },
 
   "android-arm32": {
