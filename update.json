@@ -38,7 +38,7 @@
     "av": false
   },
 
-  "ios": {
+  "apple": {
     "version": "1.0.0",
     "url": "https://example.com/Vexora-arm.apk",
     "av": false
