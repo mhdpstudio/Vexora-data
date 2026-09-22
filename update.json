@@ -24,5 +24,17 @@
     "version": "1.0.0",
     "url": "https://example.com/Vexora-arm.apk",
     "av": false
+  },
+
+  "linux-64": {
+    "version": "1.0.0",
+    "url": "https://example.com/Vexora-arm.apk",
+    "av": false
+  },
+
+  "linux-32": {
+    "version": "1.0.0",
+    "url": "https://example.com/Vexora-arm.apk",
+    "av": false
   }
 }
