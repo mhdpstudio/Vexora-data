@@ -42,5 +42,11 @@
     "version": "1.0.0",
     "url": "https://example.com/Vexora-arm.apk",
     "av": false
+  },
+
+  "laptop-macOS": {
+    "version": "1.0.0",
+    "url": "https://example.com/Vexora-arm.apk",
+    "av": false
   }
 }
